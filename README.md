@@ -4,6 +4,8 @@
 # AWS Training
 
 
+> ## [AWS Educate](https://www.awseducate.com/signin/SiteLogin?language=en_US&startURL=%2Fstudent%2Fs%2Fcontent)
+
 - [Introduction to Cloud 101](https://www.awseducate.com/student/s/content)
 
 
